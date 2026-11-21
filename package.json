@@ -1,0 +1,9 @@
+{
+  "name": "vitual-xring-bank",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Vitual XRing Bank frontend and Worker API module",
+  "scripts": {
+    "check": "node --check worker/bank.js"
+  }
+}
